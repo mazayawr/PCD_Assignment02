@@ -62,19 +62,3 @@ Histogram Equalization spreads the pixel intensity values over a wider range. As
 ### Comparison
 
 The original and enhanced images are compared visually, while their histograms are compared to observe the changes in pixel intensity distribution.
-
-## Repository Structure
-
-```text
-PCD_Assignment02/
-│
-├── PCD_Assignment02.ipynb
-├── README.md
-│
-├── images/
-│   ├── city.jpg
-│   ├── original_gray.jpg
-│   └── histogram_equalized.jpg
-│
-└── report/
-    └── analysis.pdf
